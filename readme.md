@@ -4,15 +4,14 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/NathanGison/WD-SEATWORK3-GIson-Reuel-TC04.git">
   <!-- TODO: If you want to add logo or banner you can add it here -->
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">SW3 Nathan Gison</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This is a SW Activity Containing a Landing Page 5 headers and 5 animated headers page and also a 5 Footers and 5 animated Footers page. (Optional)
+  This is a SW Activity Containing a Landing Page 5 headers and 5 animated headers page and also a 5 Footers and 5 animated Footers page.
 </div>
 
 <br />
